@@ -49,31 +49,31 @@
 <div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/userflow(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png"/></div> 
 
 > ### 공연 상세 조회
-<div align="center"><img src="./image/공연상세조회(배경).png" width="500"/></div> 
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6%E1%84%8C%E1%85%A9%E1%84%92%E1%85%AC(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png" width="500"/></div> 
 
 > ### 공연 예매
 #### 예매 요청
-<div align="center"><img src="./image/예매1(배경).png" width="500"/></div> 
-<div align="center"><img src="./image/예매2(배경).png" width="500"/></div> 
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/%E1%84%8B%E1%85%A8%E1%84%86%E1%85%A21(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png" width="500"/></div> 
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/%E1%84%8B%E1%85%A8%E1%84%86%E1%85%A22(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png" width="500"/></div> 
 
 ## ⚙ 기술 스택
-<div align="center"><img src="./image/기술스택(배경).png"/></div> 
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%B3%E1%84%90%E1%85%A2%E1%86%A8(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png"/></div> 
 
 ## 🛠️ 프로젝트 아키텍쳐
 
-<div align="center"><img src="./image/아키텍처(배경).png"/></div> 
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png"/></div> 
 
 > ### 쿠버네티스
 
-<div align="center"><img src="./image/쿠버네티스(배경).png" width="500"/></div> 
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/%E1%84%8F%E1%85%AE%E1%84%87%E1%85%A5%E1%84%82%E1%85%A6%E1%84%90%E1%85%B5%E1%84%89%E1%85%B3(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png" width="500"/></div> 
 
 > ### 모니터링
 
-<div align="center"><img src="./image/모니터링1(배경).png " width="500"/></div>
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/%E1%84%86%E1%85%A9%E1%84%82%E1%85%B5%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC1.png" width="500"/></div>
 
 > ### CI/CD
 
-<div align="center"><img src="./image/cicd(배경).png" width="500"/></div> 
+<div align="center"><img src="https://github.com/kuni4210/baro-ticket/blob/main/image/cicd(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png" width="500"/></div> 
 <br />
 
 
