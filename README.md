@@ -46,7 +46,7 @@
 ## 🗂️ 주요 기능
 
 > ### User Flow
-<div align="center"><img src="./image/userflow(배경).png"/></div> 
+<div align="center"><img src="[./image/userflow(배경).png](https://github.com/kuni4210/baro-ticket/blob/main/image/userflow(%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC).png)"/></div> 
 
 > ### 공연 상세 조회
 <div align="center"><img src="./image/공연상세조회(배경).png" width="500"/></div> 
