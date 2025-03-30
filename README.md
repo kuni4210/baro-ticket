@@ -39,7 +39,7 @@
 
 
 > ### 기술 전략
-<div align="center"><img src="./image/기술전략.png"/></div> 
+<div align="center"><img src="https://raw.githubusercontent.com/kuni4210/baro-ticket/main/image/기술전략.png"/></div> 
 
 <br />
 
