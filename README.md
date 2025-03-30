@@ -39,41 +39,41 @@
 
 
 > ### 기술 전략
-<div align="center"><img src="../image/기술전략.png"/></div> 
+<div align="center"><img src="./image/기술전략.png"/></div> 
 
 <br />
 
 ## 🗂️ 주요 기능
 
 > ### User Flow
-<div align="center"><img src="../image/userflow(배경).png"/></div> 
+<div align="center"><img src="./image/userflow(배경).png"/></div> 
 
 > ### 공연 상세 조회
-<div align="center"><img src="../image/공연상세조회(배경).png" width="500"/></div> 
+<div align="center"><img src="./image/공연상세조회(배경).png" width="500"/></div> 
 
 > ### 공연 예매
 #### 예매 요청
-<div align="center"><img src="../image/예매1(배경).png" width="500"/></div> 
-<div align="center"><img src="../image/예매2(배경).png" width="500"/></div> 
+<div align="center"><img src="./image/예매1(배경).png" width="500"/></div> 
+<div align="center"><img src="./image/예매2(배경).png" width="500"/></div> 
 
 ## ⚙ 기술 스택
-<div align="center"><img src="../image/기술스택(배경).png"/></div> 
+<div align="center"><img src="./image/기술스택(배경).png"/></div> 
 
 ## 🛠️ 프로젝트 아키텍쳐
 
-<div align="center"><img src="../image/아키텍처(배경).png"/></div> 
+<div align="center"><img src="./image/아키텍처(배경).png"/></div> 
 
 > ### 쿠버네티스
 
-<div align="center"><img src="../image/쿠버네티스(배경).png" width="500"/></div> 
+<div align="center"><img src="./image/쿠버네티스(배경).png" width="500"/></div> 
 
 > ### 모니터링
 
-<div align="center"><img src="../image/모니터링1(배경).png " width="500"/></div>
+<div align="center"><img src="./image/모니터링1(배경).png " width="500"/></div>
 
 > ### CI/CD
 
-<div align="center"><img src="../image/cicd(배경).png" width="500"/></div> 
+<div align="center"><img src="./image/cicd(배경).png" width="500"/></div> 
 <br />
 
 
